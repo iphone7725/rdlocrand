@@ -1,0 +1,24 @@
+v 0.3
+d STATA Package: RDLOCRAND
+d 
+d Authors: Matias D. Cattaneo, Department of Economics, University of Michigan, cattaneo@umich.edu
+d          Rocio Titiunik, Department of Political Science, University of Michigan, titiunik@umich.edu
+d          Gonzalo Vazquez-Bare, Department of Economics, University of Michigan, gvazquez@umich.edu
+d
+d Date: 13-Mar-2018
+d 
+f rdwinselect.ado
+f rdwinselect.sthlp
+f rdrandinf.ado
+f rdrandinf.sthlp
+f rdsensitivity.ado
+f rdsensitivity.sthlp
+f rdrbounds.ado
+f rdrbounds.sthlp
+f rdrandinf_model.ado
+f rdwinselect_allcovs.ado
+f rdlocrand_illustration.do
+f rdlocrand_senate.dta
+
+
+
